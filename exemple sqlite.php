@@ -1,4 +1,4 @@
-<?php
+git<?php
 
 	//Documentation php pour sqlite : https://www.php.net/manual/en/book.sqlite3.php
 	
