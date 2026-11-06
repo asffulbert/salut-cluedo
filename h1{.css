@@ -1,0 +1,14 @@
+h1{
+  color: rgba(255, 0, 212, 0.219);            /* Propriété : valeur */
+  font-size: 32px;        /* Point-virgule obligatoire à la fin */
+}
+body{
+  background-color: #22942ca9;
+
+  margin: 20px;
+  padding: 20px;
+}
+title{
+  color: #331cb660;
+  font-size: 132px;
+}
