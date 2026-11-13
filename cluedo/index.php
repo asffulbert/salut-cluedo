@@ -47,4 +47,7 @@ if (isset($_GET["index "])) {
 if ($_GET["page"]="hall"){
     include "?php.php";
 }
+if ($_GET["page"]="salon"){
+    include "index.php";
+}
 echo "quel est ton hypothese";
