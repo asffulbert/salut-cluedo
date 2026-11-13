@@ -10,5 +10,13 @@
       
 
 <?php
-   echo "vous ete dans l hypothese ";
-   echo "hypothese";
+   echo "vous etes dans l' hypothese ";
+   echo "hypothèse";
+   if ($_GET["untiled-1"]=="true"){
+    echo "l'hypothèse est bonne";
+   }
+ else{
+        echo "pas trouver ceci n'est pas de crime";
+    }
+
+   
