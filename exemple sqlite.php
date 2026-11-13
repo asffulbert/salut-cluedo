@@ -1,7 +1,7 @@
 <?php
 
-	//Documentation php pour sqlite : https://www.php.net/manual/en/book.sqlite3.php
-	
+	//Documentation php pour sqlite : https://www.php.net/manual/en/book.sqlite3.
+	 
 
 	/* Paramètres */
 	$bdd_fichier = 'cluedo.db';		//Fichier de la base de données
