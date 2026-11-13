@@ -14,9 +14,11 @@
    echo "hypothèse";
    if ($_GET["untiled-1"]=="true"){
     echo "l'hypothèse est bonne";
+    echo "felicitation vous avez finit le jeu";
    }
  else{
         echo "pas trouver ceci n'est pas de crime";
     }
+
 
    
