@@ -40,4 +40,10 @@ if($arme3 == "bar de fer"){
 else{
     echo " bar de fer est pas saisir";
 }
+if (isset($_GET["index "])) {
+ echo $_GET["hall"];
 
+}
+if ($_GET["page"]="hall"){
+    include "?php.php";
+}
