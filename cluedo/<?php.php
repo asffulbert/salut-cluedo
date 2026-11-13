@@ -5,12 +5,10 @@
       <nav>
       <a href="index.php?page=accueil">Accueil</a>
    <a href="index.php?page=index">Présentation</a> 
- <a href="index.php?page=?php">Contact</a>
+ <a href="index.php?page=?php"></a>
 </nav>
       
 
 <?php
+   echo "vous ete dans l hypothese ";
    echo "hypothese";
-
-
-
