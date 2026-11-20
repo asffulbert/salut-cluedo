@@ -1,5 +1,5 @@
 <?php   
-echo "vous ete dans le "cuisinier";
+echo "vous ete dans le cuisinier";
 echo $_GET["biblioteque"];
 $arme = "chandelier";
 
