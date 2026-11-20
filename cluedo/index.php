@@ -51,3 +51,4 @@ if ($_GET["page"]="salon"){
     include "index.php";
 }
 echo "quel est ton hypothese";
+echo "bonne chance";
