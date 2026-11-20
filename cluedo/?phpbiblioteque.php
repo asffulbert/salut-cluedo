@@ -36,6 +36,7 @@ $arme3 = "bar de fer";
 $arme3 = $_GET["arme3"];
 if($arme3 == "bar de fer"){
     echo "bar fer est pris ";
+    echo "vous etes sur";
 }
 else{
     echo " bar de fer est pas saisir";
