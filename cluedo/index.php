@@ -14,7 +14,7 @@ if ($arme == "chandelier") {
 } else {
     echo "vous n'avez pas choisi d'arme";
 }   
-$arme = "couteau";
+$arm = "couteau";
 $arme = $_GET["arme"];
 
 if ($arme == "couteau") {
